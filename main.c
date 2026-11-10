@@ -13,7 +13,7 @@ int main() {
     int a = 4;
     int b = 5;
     
-    printf("Projet collaboratif\n");
+    printf("Projet de programmation collaborative\n");
     printf("le produit de %d et %d = %d \n", a, b, produit(a, b));
     printf("la moyenne = %.2f\n", moyenne(a, b));
 
